@@ -1,0 +1,7 @@
+{
+  "name": "MelodyGift AI",
+  "description": "Create personalized, high-quality AI-generated songs for birthdays, anniversaries, and special moments. From Afrobeats to Gospel, turn your memories into music.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
